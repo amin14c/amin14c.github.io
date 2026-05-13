@@ -4,7 +4,7 @@ Portfolio
 
 ```kotlin
 val amin = Developer(
-    role       = "Psychiatrist × Android Developer × Researcher",
+    role       = " Android Developer × Researcher",
     location   = "Algeria 🇩🇿",
     focus      = "Building mental health tools that matter",
     buildTool  = "Smartphone only — no PC, no Studio"
@@ -13,9 +13,9 @@ val amin = Developer(
 
 ---
 
-### 🧠 Psychiatrist by day. Builder by night.
+### . Builder by night.
 
-طبيب نفسي سريري وباحث معتمد حكومياً في اضطرابات المزاج.  
+  
 أبني تطبيقات Android بالكامل من هاتفي — Kotlin · Jetpack Compose · GitHub Actions.
 
 ---
@@ -34,12 +34,6 @@ val amin = Developer(
 
 ### 🔬 Research Interests
 
-- `Inflammatory biotyping` in Bipolar Disorder (hsCRP · IL-6 · TNF-α)  
-- `Psychobiotics` — kefir RCT protocol for BD patients  
-- `Digital phenotyping` — passive + active mood tracking  
-- `Anti-inflammatory adjuncts` — Celecoxib · Minocycline · NAC · Omega-3  
-- `Kynurenine pathway` & mitochondrial modulators in mood disorders
-
 ---
 
 ### ⚙️ Tech Stack
@@ -48,19 +42,5 @@ val amin = Developer(
 Mobile   →  Kotlin · Jetpack Compose · Room + KSP · ViewModel · StateFlow
 Backend  →  Firebase Auth · Firestore · Gemini API · Overpass API
 Maps     →  OsmDroid · OpenStreetMap
-CI/CD    →  GitHub Actions (APK build from smartphone)
-```
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin14c&show_icons=true&theme=dark&bg_color=080d0f&border_color=1a2830&icon_color=00c9a7&title_color=00c9a7&text_color=d4e8e3&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin14c&layout=compact&theme=dark&bg_color=080d0f&border_color=1a2830&title_color=00c9a7&text_color=d4e8e3)
-
----
-
-<p align="center">
-  <sub>Building from Algeria · بُني من الجزائر 🇩🇿</sub>
+CI/CD    →  GitHub Actions 
 </p>
